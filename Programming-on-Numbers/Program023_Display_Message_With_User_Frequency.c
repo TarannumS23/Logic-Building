@@ -10,7 +10,7 @@ int main()
     
     for(iCnt = 1; iCnt <= iValue; iCnt++)
     {
-        printf("Jay Ganesh...\n");
+        printf("Programming Practice..\n");
     }
     return 0;
 }
